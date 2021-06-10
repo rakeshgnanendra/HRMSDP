@@ -1,12 +1,13 @@
 # Employee Management System
 
-Note: this is a repository of Employee Management System Frontend. the repository of the backend is available here: https://github.com/fenil29/employee-management-system-backend-node
+Note: this is a repository of Employee Management System Frontend. the repository of the backend is available here: https://github.com/rakeshgnanendra/employee-management-system-backend-node
 
 -------------
 
-Website: https://employee-management-fk.netlify.com
+App is deployed on AWS for security purpose we are not sharing url here
 
 -------------
+Key Features :
 
 - Employee Management system is a web application that enables users to create,store and manage Employee Records
 - The application also provides facilities of a payroll system and leave application
@@ -28,14 +29,37 @@ Technology used :
 - NODE JS 
 - EXPRESS
 - MONGO DB
-
+- Phython
 -------------
 
 The different part or module of this project is as follows:
+
 - Login Page
+
+-------------
+![alt_img](https://i.imgur.com/4CDsylE.png)
+
+-------------
 - Admin Dashboard
+
+-------------
+![alt_img](https://i.imgur.com/sB19nZr.png)
+
+-------------
+
 - HR Dashboard
+
+-------------
+![alt_img](https://i.imgur.com/U3GtyRC.png)
+
+-------------
+
 - Employee Dashboard
+-------------
+![alt_img](https://i.imgur.com/U3GtyRC.png)
+
+-------------
+
 - Authentication and authorization(user verification)
 - Database(MongoDB)
 - Mobile-Friendly UI
