@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  box-sizing: border-box;  
+  /* font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"; */
+  font-family: 'Roboto', sans-serif;
+}
+span.ag-paging-row-summary-panel {
+  color:#204783 !important;
+}
+span.ag-paging-page-summary-panel {
+  color:#204783 !important;
+}
+.ag-theme-balham .ag-paging-page-summary-panel .ag-icon.ag-disabled {
+  color: rgb(4 25 63) !important;
+}
+.ag-theme-balham .ag-header {
+  background-color:#204783 !important;
+  color: rgb(255 255 255) !important;
+  border-bottom: 1px solid #848b99 !important;
+}
+.ag-theme-balham .ag-icon {
+  color: #ffffff !important;
+}
+.ag-theme-balham .ag-header-cell::after{
+  border-right: 1px solid rgb(255 255 255) !important;
+}
